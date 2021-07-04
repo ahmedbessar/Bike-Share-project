@@ -1,5 +1,5 @@
 ![divvy](https://user-images.githubusercontent.com/10078499/124369903-41e6ec00-dc71-11eb-966d-b5a686dd260e.jpg)
-# Basic Data Exploration with pandas on Bikeshare Data
+# Data Exploration with pandas on Bikeshare Data
 Bikeshare data exploration using pandas library in Python for basic Udacity project.
 
 ## Overview
@@ -30,9 +30,7 @@ Upon receiving the user input, it goes ahead and asks the user if they want to v
 Finally, the user is prompted with the choice of restarting the program or not.
 
 ## Requirements:
-[Python 3.6.6](https://www.python.org/) - The language used to develop this.
-[pandas](https://pandas.pydata.org/) - One of the libraries used for this.
-[numpy](https://numpy.org/) - One of the libraries used for this.
-[time](https://docs.python.org/3/library/time.html) - One of the libraries used for this.
-
-![image](https://en.wikipedia.org/wiki/Divvy#/media/File:Bike_to_Work_Day_Rally.jpg)
+* [Python 3.6.6](https://www.python.org/) - The language used to develop this.
+* [pandas](https://pandas.pydata.org/) - One of the libraries used for this.
+* [numpy](https://numpy.org/) - One of the libraries used for this.
+* [time](https://docs.python.org/3/library/time.html) - One of the libraries used for this.
