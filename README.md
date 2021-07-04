@@ -28,5 +28,5 @@ Upon receiving the user input, it goes ahead and asks the user if they want to v
 
 Finally, the user is prompted with the choice of restarting the program or not.
 
-
+[image](https://en.wikipedia.org/wiki/Divvy#/media/File:Bike_to_Work_Day_Rally.jpg)
 [image](https://en.wikipedia.org/wiki/Divvy#/media/File:Bike_to_Work_Day_Rally.jpg)
