@@ -5,8 +5,13 @@ Bikeshare data exploration using pandas library in Python for basic Udacity proj
 ## Overview
 In this project, I will make use of Python to explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington. I will write code to import the data and answer interesting questions about it by computing descriptive statistics. I will also write a script that takes in raw input to create an interactive experience in the terminal to present these statistics.
 
-## Running the program:
-You can input 'python bikeshare.py' on your terminal to run this program. I use Anaconda's command prompt on a Windows 10 machine.
+## How to run:
+- Clone the project
+- Prerequisite
+     - You must have installed python and libraries like numpy and pandas.
+- Run the project
+     - Open the terminal
+     - And run python Bikeshare.py
 
 ## Program details:
 The program takes user input for the city (e.g. Chicago), month for which the user wants to view data (e.g. January; also includes an 'all' option), and day for which the user wants to view data (e.g. Monday; also includes an 'all' option).
